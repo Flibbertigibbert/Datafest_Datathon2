@@ -1,2 +1,16 @@
 # Team ROSH
-About this project You and your team have been contracted as consultants by a school somewhere in Africa (feel free to take any country or location of your choice) to help them build a solution that proactively leverages data to improve candidates’ performance in not just JAMB, but all their upcoming final exams.
+
+Team Rosh
+Adebola Rabiu
+Anuoluwapo Tenibiaje
+Timilehin Olowolafe
+
+
+
+## 1. Project Overview
+Title:
+**Data-Driven Solution to Improve Student Performance in Ikorodu Community High School**
+Objective:
+To design a data-driven system that helps improve students performance, focusing on preparing students for key standardized exams like JAMB and WASSCE. The solution will establish a robust data infrastructure, analyze key performance factors, and offer predictive insights and actionable recommendations.
+Scope:
+The solution will include data collection, storage, predictive modeling, and reporting, aiming to enhance performance through early interventions and data-driven decisions.
